@@ -1,4 +1,3 @@
-
 #include <LiquidCrystal.h>
 
 class IMUdata {
